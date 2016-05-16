@@ -1,0 +1,8 @@
+{
+  "name": "screen-service",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "phantomjs": "1.9.16"
+  }
+}
